@@ -27,4 +27,4 @@ weight = 5
 
 # About me
 
-Hi! I'm a backend developer at Inn4Science. My research interests include high-load web-services, formalization of software architecture, blockchain solutions. The list of my current responsibilities includes the design and implementation of distributed systems.
+Hi! I'm a backend developer at Inn4Science. My interests are highload web services, formalization of the software architecture, solutions based on the blockchain. The list of my current responsibilities includes the design and implementation of distributed systems.
